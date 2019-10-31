@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mappings>
+  <Mapping>
+    <APIColumnName>listName</APIColumnName>
+    <FileColumnIndex>1</FileColumnIndex>
+  </Mapping>
+  <Mapping>
+    <APIColumnName>externalIdColumn</APIColumnName>
+    <FileColumnIndex>2</FileColumnIndex>
+  </Mapping>
+  <Mapping>
+    <APIColumnName>listExpirationDate</APIColumnName>
+    <FileColumnIndex>5</FileColumnIndex>
+  </Mapping>
+  <Mapping>
+    <APIColumnName>scoreColumn</APIColumnName>
+    <FileColumnIndex>7</FileColumnIndex>
+  </Mapping>
+  <Mapping>
+    <APIColumnName>customer1Column</APIColumnName>
+    <FileColumnIndex>8</FileColumnIndex>
+  </Mapping>
+  <Mapping>
+    <APIColumnName>customer2Column</APIColumnName>
+    <FileColumnIndex>9</FileColumnIndex>
+  </Mapping>
+  <Mapping>
+    <APIColumnName>callerIdColumn</APIColumnName>
+    <FileColumnIndex>10</FileColumnIndex>
+  </Mapping>
+  <Mapping>
+    <APIColumnName>priorityColumn</APIColumnName>
+    <FileColumnIndex>11</FileColumnIndex>
+  </Mapping>
+  <Mapping>
+    <APIColumnName>complianceReqColumn</APIColumnName>
+    <FileColumnIndex>13</FileColumnIndex>
+  </Mapping>
+  <Mapping>
+    <APIColumnName>firstNameColumn</APIColumnName>
+    <FileColumnIndex>15</FileColumnIndex>
+  </Mapping>
+  <Mapping>
+    <APIColumnName>lastNameColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>addressColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>cityColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>stateColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>zipColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>timeZoneColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>confirmReqColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>overrideFinalizationColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>agentIdColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>callRequestTimeColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>callRequestStaleColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>notesColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+  <Mapping>
+    <APIColumnName>expirationDateColumn</APIColumnName>
+    <FileColumnIndex />
+  </Mapping>
+</Mappings>
